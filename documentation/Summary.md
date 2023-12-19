@@ -10,6 +10,22 @@
 * Были успешно реализованы автотесты, которые проверяют заполнение полей веб-формы и работу сохранения записей в
   базах данных MySQL и PostgreSQL.
 
+Баги
+
+[issue #25](https://github.com/IlyaZuev90/DiplomWork/issues/25),
+
+[issue #26](https://github.com/IlyaZuev90/DiplomWork/issues/26),
+
+[issue #27](https://github.com/IlyaZuev90/DiplomWork/issues/27),
+
+[issue #28](https://github.com/IlyaZuev90/DiplomWork/issues/28),
+
+[issue #29](https://github.com/IlyaZuev90/DiplomWork/issues/29),
+
+[issue #30](https://github.com/IlyaZuev90/DiplomWork/issues/30),
+
+не были предусмотрены на этапе составления тест-кейсов и обнаружились только во время ручного тестирования.
+
 # 2. Причины по которым что-то могло быть не реализовано:
 
 
