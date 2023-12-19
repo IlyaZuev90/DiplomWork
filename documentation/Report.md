@@ -5,10 +5,10 @@ ___
 ## Количество выполненных тест кейсов
 Было проведено 105 тестов, в ходе которых выявилось 24 дефекта(что составляет 22,86% от общего колличества тестов).
    
-![1](\pic\1.png)
+![1](https://github.com/IlyaZuev90/DiplomWork/blob/main/documentation/pic/1.png)
 
 Список и номера упавших тест-кейсов:
-![2](\pic\2.png)
+![2](https://github.com/IlyaZuev90/DiplomWork/blob/main/documentation/pic/2.png)
 
 
 Баги оформлены в [issues](https://github.com/IlyaZuev90/DiplomWork/issues)
