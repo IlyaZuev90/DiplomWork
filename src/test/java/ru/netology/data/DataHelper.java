@@ -18,10 +18,6 @@ public class DataHelper {
         return "4444 4444 4444 4442";
     }
 
-    public static String getCardNumberInvalidValue() {
-        return faker.number().digits(16);
-    }
-
     public static String getNumbers(int quantity) {
         return String.format(faker.number().digits(quantity));
     }
@@ -119,10 +115,6 @@ public class DataHelper {
         String[] generateChar = {"!", "@", "#", "№", "$", ";", "%", "^", ":", "&", "?", "*", "(", ")", "-", "_", "+", "=", "`", "~"};
 
         return generateChar[new Random().nextInt(generateChar.length)];
-    }
-
-    public static String getCvcCvv() {
-        return faker.number().digits(3);
     }
 
 }
